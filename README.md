@@ -1,2 +1,2 @@
 # dialbot
-PSTN to WebSocket via Twilio and ffmpeg
+PSTN to WebSocket via Twilio and audioop
